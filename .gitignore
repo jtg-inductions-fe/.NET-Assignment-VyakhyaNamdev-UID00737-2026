@@ -1,0 +1,15 @@
+.vs/
+**/bin/
+**/obj/
+packages/
+*.user
+*.suo
+TestResults/
+*.trx
+*.coverage
+*.pdb
+*.cache
+publish/
+*.pubxml
+*.mdf
+*.ldf
